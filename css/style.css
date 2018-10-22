@@ -17,3 +17,28 @@ a {
     width: 30px;
     margin: 15px;
 }
+.header {
+    display: flex;
+    justify-content:center;
+}
+.navbar {
+    display:flex;
+    justify-content:space-around;
+}
+
+.leftPane {
+    display:flex;
+    justify-content:center;
+}
+.gallery {
+    display:flex;
+    justify-content:space-around;
+}
+.thumbnail-image {
+    height: 100px;
+    width: 100px;
+}
+.footer {
+    display:flex;
+    justify-content:center;
+}
